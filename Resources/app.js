@@ -4,8 +4,8 @@ var win = Ti.UI.createWindow();
 
 var scrollView = Ti.UI.createScrollView({
   contentHeight:'auto',
-  showVerticalScrollIndicator:true,
-	showHorizontalScrollIndicator:true
+  showVerticalScrollIndicator:false,
+	showHorizontalScrollIndicator:false
 });
 
 var collageView = Ti.UI.createImageView({
@@ -28,7 +28,7 @@ var greeters = [
   [133,607,89,138,"Saara","Dana oot tärkee, valtaisat onnittelut, ei se mitään, että 30 lähenee!"],
   [0,631,129,151,"Maria","happy Bogdana-day let the power of Google Calendar be with you!"],
   [226,677,96,199,"Olli & Anne","Happy iBirthday! Jättionnittelut!"],
-  [116,754,81,190,"Minna","I need no say anything, I hava an AXE!"],
+  [116,754,81,190,"Minna","I need no say anything, I have an AXE!"],
   [0,800,101,106,"Olaya","Happy birthday, Dana! Have a great time with your present and in the party! So, when is the b'day actually?"],
   [203,874,106,135,"Melania","Happy birthday, Dana!"],
   [28,941,71,116,"Saara","Hey Dana! This is my virtual hug from Amsterdam, have a sunny birthday picnic! We'll celebrate it again when I'm back in Helsinki! :)"],
