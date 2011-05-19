@@ -15,10 +15,37 @@ var collageView = Ti.UI.createImageView({
   height:1340
 });
 
+var greeters = [
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""],
+  [,,,,"",""]
+]
 
 
 
 
+
+
+// Animatsii koteiki
 // var a = Ti.UI.createAnimation();
 // a.top = 400;
 // a.left = 300;
@@ -26,12 +53,12 @@ var collageView = Ti.UI.createImageView({
 // treugolnik.animate(a);
 
 
-
-
-
-
-
-
+// music
+var sound = Titanium.Media.createSound({
+  url:'sounds/kroko.mp3',
+  looping:true
+});
+sound.play();
 
 
 win.add(scrollView);
