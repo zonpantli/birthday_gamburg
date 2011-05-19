@@ -3,18 +3,18 @@
     <id>com.zonpantli.gamburg</id>
     <name>Gamburg</name>
     <version>1.0</version>
-    <publisher>not specified</publisher>
-    <url>not specified</url>
-    <description>not specified</description>
-    <copyright>not specified</copyright>
+    <publisher>InnosepiaMEGAcorp</publisher>
+    <url>http://</url>
+    <description>Happy Birthday Dana!</description>
+    <copyright>Miika, Masha i Krokotiili</copyright>
     <icon>appicon.png</icon>
     <persistent-wifi>false</persistent-wifi>
-    <prerendered-icon>false</prerendered-icon>
+    <prerendered-icon>true</prerendered-icon>
     <statusbar-style>default</statusbar-style>
     <statusbar-hidden>false</statusbar-hidden>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
-    <analytics>true</analytics>
+    <analytics>false</analytics>
 <guid>f47072d8-5300-4688-a3e0-92f4da29c7ee</guid>
 	<iphone>
 		<orientations device="iphone">
