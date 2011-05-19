@@ -1,0 +1,4 @@
+tmp
+*tmproj
+build/iphone/*
+build/android/*
