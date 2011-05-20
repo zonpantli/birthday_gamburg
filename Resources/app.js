@@ -32,7 +32,7 @@ var greeters = [
   [0,800,101,106,"Olaya","Happy birthday, Dana! Have a great time with your present and in the party! So, when is the b'day actually?"],
   [203,874,106,135,"Melania","Happy birthday, Dana!"],
   [28,941,71,116,"Saara","Hey Dana! This is my virtual hug from Amsterdam, have a sunny birthday picnic! We'll celebrate it again when I'm back in Helsinki! :)"],
-  [99,1023,71,109,"Egor","FOOBARZAZEVY"],
+  [99,1023,71,109,"Egor","Kazhdaya pyatnica pust budet v shabat!"],
   [178,1013,137,130,"Maxim","Дорогая наша Дана!\nБыть счастливой и красивой\nЯ желаю-поздравляю!"],
   [0,1162,84,142,"Antti","I'll fuck you from Berlin. Damn you auto-correct. Happy Bday Dana!"],
   [94,1175,79,143,"Christine","Many birthday wishes to you my wonderful, beautiful friend from Nine and Lili"],
